@@ -6,6 +6,9 @@ https://github.com/user-attachments/assets/cc9f0195-b10c-4e6d-8765-23802076b55b
 
 ![Image](https://github.com/user-attachments/assets/22f2f99f-7fd1-4c19-bb35-d767bbd05574)
 ![Image](https://github.com/user-attachments/assets/5592ebe7-f9ce-468e-8137-0e410425e984)
+![Image](https://github.com/user-attachments/assets/1e524add-3c58-464d-9c3c-f4795897fd0b)
+![Image](https://github.com/user-attachments/assets/3e91396b-ffa2-4815-beb4-10f0690f9f62)
+
 
 This project provides a live tracking system for navigating a floor plan, using device motion sensors to automatically rotate the map and track movement within a building. The system allows users to set their starting location, view real-time stats, and see a floor plan with an auto-rotating map based on their device’s orientation.
 
