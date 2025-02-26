@@ -1,4 +1,4 @@
-# Floor Plan Live Tracking (Auto-Rotating Map)
+# Indoor Navigation and Live Tracking
 
 <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"> 
 
