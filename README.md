@@ -1,5 +1,8 @@
 # Floor Plan Live Tracking (Auto-Rotating Map)
 
+<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"> 
+
+
 This project provides a live tracking system for navigating a floor plan, using device motion sensors to automatically rotate the map and track movement within a building. The system allows users to set their starting location, view real-time stats, and see a floor plan with an auto-rotating map based on their device’s orientation.
 
 ## Features
